@@ -21,6 +21,4 @@ enviar al portapapeles.
 
 LICENCIA:
 ------------
-Reconocimiento – NoComercial (by-nc): Se permite la generación de obras derivadas
-siempre que no se haga un uso comercial. Tampoco se puede utilizar
-la obra original con finalidades comerciales.
+Reconocimiento (by): Se permite cualquier explotación de la obra, incluyendo una finalidad comercial, así como la creación de obras derivadas, la distribución de las cuales también está permitida sin ninguna restricción.
